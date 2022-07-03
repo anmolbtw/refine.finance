@@ -64,7 +64,7 @@ body{
     position: absolute;
     width: 64px;
     height: 18px;
-    left: 360px;
+    left: 320px;
     top: 66px;
     z-index: 1;
 
@@ -86,7 +86,7 @@ body{
     position: absolute;
     width: 69px;
     height: 18px;
-    left: 760px;
+    left: 720px;
     top: 66px;
     z-index: 1;
 
@@ -108,7 +108,7 @@ body{
     position: absolute;
     width: 66px;
     height: 18px;
-    left: 960px;
+    left: 920px;
     top: 66px;
     z-index: 1;
 
@@ -149,7 +149,7 @@ body{
 
 .searchbar{
     max-width: 60%;
-    margin-left: 340px;
+    margin-left: 300px;
     margin-right: 80px;
     margin-top: 56px;
     margin-bottom: 161px;
@@ -170,7 +170,7 @@ body{
 .go-btn{
     background-color:#0093FB;
     color: white;
-    width: 200px;
+    width: 180px;
     height: 67px;
     border-radius: 0px 5px 5px 0px;
     font-family: 'Poppins';
@@ -217,7 +217,7 @@ body{
 }
 .drop-btn-3{
     background-color: white;
-    width: 200px;
+    width: 400px !important;
     height: 67px;
 }
 
